@@ -1,1 +1,1 @@
-Head to the [[Wiki]]
+Head to the [Wiki](../../wiki)
